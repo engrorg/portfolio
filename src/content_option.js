@@ -1,5 +1,6 @@
 import { FaWhatsapp } from "react-icons/fa";
 
+
 const logotext = "Hashibul.me";
 const meta = {
     title: "Full-Stack Freelance Developer-Hashibul Hasan",
@@ -13,8 +14,8 @@ const introdata = {
         second: "MERN Developer",
         third: "Freelancer",
     },
-    description: "I'm a Software Engineer. More than five years of developing experience after graduating from Computer Science and Engineering in the year 2019.",
-    your_img_url: "https://avatars.githubusercontent.com/u/142114736?v=4",
+    description: "I'm a Software Engineer with More than five years of developing experience after graduating from Computer Science and Engineering in the year 2019.",
+    your_img_url: "https://avatars.githubusercontent.com/u/142114736?s=400&u=628688cc752c1f0c68a8897d279e3887320a6d87&v=4",
 };
 
 const dataabout = {
@@ -94,65 +95,34 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://upwork-usw2-prod-agora-file-storage.s3.us-west-2.amazonaws.com/profile/portfolio/thumbnail/942d7b8ebe0d009152ec31747e9e890d?response-content-disposition=inline;+filename=%22image_original%22;+filename*=utf-8%27%27image_original&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPD//////////wEaCXVzLXdlc3QtMiJGMEQCIDpqfD/Zz6jCm3FGVV2bHMT04jaFWV9wVgY%2BWu24RyJ8AiA8GdbMuqvXxWpp/Dfryu3J8XH3MtzNKiOHFawGIHaAkCqQBQhZEAAaDDczOTkzOTE3MzgxOSIMv7PaUZEQT6jhQRgYKu0Edr351pv/YGeLyvXhXbz8lr6RNHfN4QpfrZxI32e9bpNesSc886ucoJkTC6RZRihk9phdNQF/6oA/chvy0GZgt4KNcz8LvtLcrZ/riX6b4ALBiCB5fdK9kkYKbPjJoPkKv1TRy7YAG9itgNOH8C4Ik4z9QUQohown9sdiaNIbdhqZLKz1xxUU0QZNBi37EYm3sOL1EiS00pnim%2BJ/pZPXIJfsqX0BMpMCM5aXR8TfvSPewqwkH%2BA7BTeUO1RSfTq9c2ntP/CSOfJCgaWqySKfhKu%2BxoPrY6Oe2YfeO1C8H4TkcwruN8ZoM1wjPg5ct98KgGsaIYN2Onerb3Mxifei6ouj5bGlTi34%2B8tmxob7ckWacVr0hKdqr7KSM9MyCFx6JXMlTCh/%2B9saA727TwL3yHSfsYfr5gin4kDmq5il5l0R%2B5UJ6vYiXNSbWjKA%2BI3UN7R5wxY1ECQMCcAn0wv5z2CXAcCVUE3ZPI80DOLtAcga%2BHI642GzRb%2Bdyw0XpH1qymF9C6YAk5Mj5O%2Bkd/7vsS67d7B1WhLvjTU5vKNRsmo4RZeoBzAItdQg5lwDckWwQE6%2BgFlXLjWeE9iUWdd6hk/2bxtzUgs7CK7ybvHauFBD4D3GpH%2Bxd7rleRodRQMyUXeT9j7XI6Wj17nKWjD6sl%2BZLvB6/O/8hj40kx/sF9Y9PJntRLeRWBPjYXV6JQ6VejxaWgwUBICWrapBCs6lbO/ICn8kFnpoaVkqlc/YMbX/szq42qWL5K/0RBuvq55WNVCG%2B2yeBazlN4GFCaW8%2Bed4e1T9gYiYxVAEJzOqik8/sXXSR11JN6B2OqHoMKqnmb8GOpwB1QpztdZmOMFqXWsn6WsPv/Pc6nI8UwwtHVmdhIDoZxbjrl7Zmpz9nen61mv8yIxbVWknoxnc7yQWTy2DmN2Y4it6ZrSrH3KKWSPKeaKk6xOfuM9hWOnaX1yHKdqiZj2iBZ9NeDNwljKTUXWK24kd%2BPopnqPEpNZgKIhZsr0dOs5qpNqZMRTEqwAgXdCRZZrYXP3wnRp/iamgzfcQ&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250328T081824Z&X-Amz-SignedHeaders=host&X-Amz-Expires=900&X-Amz-Credential=ASIA2YR6PYW5QQSV5PZY/20250328/us-west-2/s3/aws4_request&X-Amz-Signature=31a98eb29f5504f52c87c14f216df7844ffa3e2b34e4d3af158f475340d71115",
+        description: "NodeJs, ExpressJs and PostgreSQL ToDo App to Record all the toDo task for today. It can be scalable to add more feature on it.",
+        link: "https://www.upwork.com/freelancers/~01a5b413bec1d6bb8a?p=1902444442655522816",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://www.upwork.com/att/download/portfolio/persons/uid/817399807765053440/profile/projects/files/1304890762304069632",
+        description: "This is a really awesome and great single page react application that allows the people to add meetings by theme-self. The people can check-in at a different meeting also. The admin user of the meeting can delete other users, can send theme emails, or give them star marks. The user can search and filter to find out other people or can select them randomly.",
+        link: "https://www.upwork.com/freelancers/~01a5b413bec1d6bb8a?p=1304887695148601344",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://upwork-usw2-prod-agora-file-storage.s3.us-west-2.amazonaws.com/profile/portfolio/thumbnail/942d7b8ebe0d009152ec31747e9e890d?response-content-disposition=inline;+filename=%22image_original%22;+filename*=utf-8%27%27image_original&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPD//////////wEaCXVzLXdlc3QtMiJGMEQCIDpqfD/Zz6jCm3FGVV2bHMT04jaFWV9wVgY%2BWu24RyJ8AiA8GdbMuqvXxWpp/Dfryu3J8XH3MtzNKiOHFawGIHaAkCqQBQhZEAAaDDczOTkzOTE3MzgxOSIMv7PaUZEQT6jhQRgYKu0Edr351pv/YGeLyvXhXbz8lr6RNHfN4QpfrZxI32e9bpNesSc886ucoJkTC6RZRihk9phdNQF/6oA/chvy0GZgt4KNcz8LvtLcrZ/riX6b4ALBiCB5fdK9kkYKbPjJoPkKv1TRy7YAG9itgNOH8C4Ik4z9QUQohown9sdiaNIbdhqZLKz1xxUU0QZNBi37EYm3sOL1EiS00pnim%2BJ/pZPXIJfsqX0BMpMCM5aXR8TfvSPewqwkH%2BA7BTeUO1RSfTq9c2ntP/CSOfJCgaWqySKfhKu%2BxoPrY6Oe2YfeO1C8H4TkcwruN8ZoM1wjPg5ct98KgGsaIYN2Onerb3Mxifei6ouj5bGlTi34%2B8tmxob7ckWacVr0hKdqr7KSM9MyCFx6JXMlTCh/%2B9saA727TwL3yHSfsYfr5gin4kDmq5il5l0R%2B5UJ6vYiXNSbWjKA%2BI3UN7R5wxY1ECQMCcAn0wv5z2CXAcCVUE3ZPI80DOLtAcga%2BHI642GzRb%2Bdyw0XpH1qymF9C6YAk5Mj5O%2Bkd/7vsS67d7B1WhLvjTU5vKNRsmo4RZeoBzAItdQg5lwDckWwQE6%2BgFlXLjWeE9iUWdd6hk/2bxtzUgs7CK7ybvHauFBD4D3GpH%2Bxd7rleRodRQMyUXeT9j7XI6Wj17nKWjD6sl%2BZLvB6/O/8hj40kx/sF9Y9PJntRLeRWBPjYXV6JQ6VejxaWgwUBICWrapBCs6lbO/ICn8kFnpoaVkqlc/YMbX/szq42qWL5K/0RBuvq55WNVCG%2B2yeBazlN4GFCaW8%2Bed4e1T9gYiYxVAEJzOqik8/sXXSR11JN6B2OqHoMKqnmb8GOpwB1QpztdZmOMFqXWsn6WsPv/Pc6nI8UwwtHVmdhIDoZxbjrl7Zmpz9nen61mv8yIxbVWknoxnc7yQWTy2DmN2Y4it6ZrSrH3KKWSPKeaKk6xOfuM9hWOnaX1yHKdqiZj2iBZ9NeDNwljKTUXWK24kd%2BPopnqPEpNZgKIhZsr0dOs5qpNqZMRTEqwAgXdCRZZrYXP3wnRp/iamgzfcQ&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250328T081824Z&X-Amz-SignedHeaders=host&X-Amz-Expires=900&X-Amz-Credential=ASIA2YR6PYW5QQSV5PZY/20250328/us-west-2/s3/aws4_request&X-Amz-Signature=31a98eb29f5504f52c87c14f216df7844ffa3e2b34e4d3af158f475340d71115",
+        description: "NodeJs, ExpressJs and PostgreSQL ToDo App to Record all the toDo task for today. It can be scalable to add more feature on it.",
+        link: "https://www.upwork.com/freelancers/~01a5b413bec1d6bb8a?p=1902444442655522816",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://www.upwork.com/att/download/portfolio/persons/uid/817399807765053440/profile/projects/files/1304890762304069632",
+        description: "This is a really awesome and great single page react application that allows the people to add meetings by theme-self. The people can check-in at a different meeting also. The admin user of the meeting can delete other users, can send theme emails, or give them star marks. The user can search and filter to find out other people or can select them randomly.",
+        link: "https://www.upwork.com/freelancers/~01a5b413bec1d6bb8a?p=1304887695148601344",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://upwork-usw2-prod-agora-file-storage.s3.us-west-2.amazonaws.com/profile/portfolio/thumbnail/942d7b8ebe0d009152ec31747e9e890d?response-content-disposition=inline;+filename=%22image_original%22;+filename*=utf-8%27%27image_original&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPD//////////wEaCXVzLXdlc3QtMiJGMEQCIDpqfD/Zz6jCm3FGVV2bHMT04jaFWV9wVgY%2BWu24RyJ8AiA8GdbMuqvXxWpp/Dfryu3J8XH3MtzNKiOHFawGIHaAkCqQBQhZEAAaDDczOTkzOTE3MzgxOSIMv7PaUZEQT6jhQRgYKu0Edr351pv/YGeLyvXhXbz8lr6RNHfN4QpfrZxI32e9bpNesSc886ucoJkTC6RZRihk9phdNQF/6oA/chvy0GZgt4KNcz8LvtLcrZ/riX6b4ALBiCB5fdK9kkYKbPjJoPkKv1TRy7YAG9itgNOH8C4Ik4z9QUQohown9sdiaNIbdhqZLKz1xxUU0QZNBi37EYm3sOL1EiS00pnim%2BJ/pZPXIJfsqX0BMpMCM5aXR8TfvSPewqwkH%2BA7BTeUO1RSfTq9c2ntP/CSOfJCgaWqySKfhKu%2BxoPrY6Oe2YfeO1C8H4TkcwruN8ZoM1wjPg5ct98KgGsaIYN2Onerb3Mxifei6ouj5bGlTi34%2B8tmxob7ckWacVr0hKdqr7KSM9MyCFx6JXMlTCh/%2B9saA727TwL3yHSfsYfr5gin4kDmq5il5l0R%2B5UJ6vYiXNSbWjKA%2BI3UN7R5wxY1ECQMCcAn0wv5z2CXAcCVUE3ZPI80DOLtAcga%2BHI642GzRb%2Bdyw0XpH1qymF9C6YAk5Mj5O%2Bkd/7vsS67d7B1WhLvjTU5vKNRsmo4RZeoBzAItdQg5lwDckWwQE6%2BgFlXLjWeE9iUWdd6hk/2bxtzUgs7CK7ybvHauFBD4D3GpH%2Bxd7rleRodRQMyUXeT9j7XI6Wj17nKWjD6sl%2BZLvB6/O/8hj40kx/sF9Y9PJntRLeRWBPjYXV6JQ6VejxaWgwUBICWrapBCs6lbO/ICn8kFnpoaVkqlc/YMbX/szq42qWL5K/0RBuvq55WNVCG%2B2yeBazlN4GFCaW8%2Bed4e1T9gYiYxVAEJzOqik8/sXXSR11JN6B2OqHoMKqnmb8GOpwB1QpztdZmOMFqXWsn6WsPv/Pc6nI8UwwtHVmdhIDoZxbjrl7Zmpz9nen61mv8yIxbVWknoxnc7yQWTy2DmN2Y4it6ZrSrH3KKWSPKeaKk6xOfuM9hWOnaX1yHKdqiZj2iBZ9NeDNwljKTUXWK24kd%2BPopnqPEpNZgKIhZsr0dOs5qpNqZMRTEqwAgXdCRZZrYXP3wnRp/iamgzfcQ&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250328T081824Z&X-Amz-SignedHeaders=host&X-Amz-Expires=900&X-Amz-Credential=ASIA2YR6PYW5QQSV5PZY/20250328/us-west-2/s3/aws4_request&X-Amz-Signature=31a98eb29f5504f52c87c14f216df7844ffa3e2b34e4d3af158f475340d71115",
+        description: "NodeJs, ExpressJs and PostgreSQL ToDo App to Record all the toDo task for today. It can be scalable to add more feature on it.",
+        link: "https://www.upwork.com/freelancers/~01a5b413bec1d6bb8a?p=1902444442655522816",
     },
     {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://www.upwork.com/att/download/portfolio/persons/uid/817399807765053440/profile/projects/files/1304890762304069632",
+        description: "This is a really awesome and great single page react application that allows the people to add meetings by theme-self. The people can check-in at a different meeting also. The admin user of the meeting can delete other users, can send theme emails, or give them star marks. The user can search and filter to find out other people or can select them randomly.",
+        link: "https://www.upwork.com/freelancers/~01a5b413bec1d6bb8a?p=1304887695148601344",
     },
 ];
 
@@ -163,7 +133,7 @@ const contactConfig = {
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_f19ll9s",
-    YOUR_TEMPLATE_ID: "template_g5ct9vm",
+    YOUR_TEMPLATE_ID: "template_ietvdq9",
     YOUR_USER_ID: "EVETgmQE-WzGyY4ox",
 };
 

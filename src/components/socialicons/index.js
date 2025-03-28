@@ -17,7 +17,7 @@ import {
 import { socialprofils } from "../../content_option";
 
 const ICON_MAPPING = {
-  default: FaCircle,
+  default: FaStackOverflow,
   facebook: FaFacebookF,
   github: FaGithub,
   instagram: FaInstagram,
